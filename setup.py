@@ -1,3 +1,3 @@
 import os
 
-os.system("whoami && lscpu && npm -v && ls")
+os.system("whoami && lscpu && npm -v")
